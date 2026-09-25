@@ -1,0 +1,9 @@
+torch
+torchvision
+torchmetrics
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+jupyterlab
