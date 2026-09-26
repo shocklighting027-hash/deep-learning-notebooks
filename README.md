@@ -100,7 +100,7 @@ The training code, models, hyperparameters and stored results are otherwise unch
 
 ## Authorship and AI assistance
 
-The experiments, models and code were written by Ilya Malov. [Claude](https://claude.com) (an AI assistant by
+The experiments, models and code were written by author. [Claude](https://claude.com) (an AI assistant by
 Anthropic) was used to write the explanatory comments and section headings, to make the notebooks easier to navigate,
 and to help prepare this README and the repository.
 
